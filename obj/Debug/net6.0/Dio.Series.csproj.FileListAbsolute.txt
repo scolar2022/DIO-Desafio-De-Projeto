@@ -1,0 +1,15 @@
+C:\Users\scola\Desktop\Desafio_de_projeto_2\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\scola\Desktop\Desafio_de_projeto_2\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scola\Desktop\Desafio_de_projeto_2\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\scola\Desktop\Desafio_de_projeto_2\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\Users\scola\Desktop\Desafio_de_projeto_2\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\scola\Desktop\Desafio_de_projeto_2\Dio.Series\bin\Debug\net6.0\Dio.Series.exe
+C:\Users\scola\Desktop\Desafio_de_projeto_2\Dio.Series\bin\Debug\net6.0\Dio.Series.deps.json
+C:\Users\scola\Desktop\Desafio_de_projeto_2\Dio.Series\bin\Debug\net6.0\Dio.Series.runtimeconfig.json
+C:\Users\scola\Desktop\Desafio_de_projeto_2\Dio.Series\bin\Debug\net6.0\Dio.Series.dll
+C:\Users\scola\Desktop\Desafio_de_projeto_2\Dio.Series\bin\Debug\net6.0\ref\Dio.Series.dll
+C:\Users\scola\Desktop\Desafio_de_projeto_2\Dio.Series\bin\Debug\net6.0\Dio.Series.pdb
+C:\Users\scola\Desktop\Desafio_de_projeto_2\Dio.Series\obj\Debug\net6.0\Dio.Series.dll
+C:\Users\scola\Desktop\Desafio_de_projeto_2\Dio.Series\obj\Debug\net6.0\ref\Dio.Series.dll
+C:\Users\scola\Desktop\Desafio_de_projeto_2\Dio.Series\obj\Debug\net6.0\Dio.Series.pdb
+C:\Users\scola\Desktop\Desafio_de_projeto_2\Dio.Series\obj\Debug\net6.0\Dio.Series.genruntimeconfig.cache
